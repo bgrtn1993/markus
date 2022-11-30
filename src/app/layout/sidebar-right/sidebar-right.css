@@ -1,0 +1,7 @@
+.ant-menu-light.ant-menu-inline .ant-menu-sub.ant-menu-inline{
+    background-color: rgb(102 102 102);
+}
+
+.ant-menu-light:not(.ant-menu-horizontal) .ant-menu-item-selected{
+    background-color: rgb(162 162 162);
+}

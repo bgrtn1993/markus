@@ -1,0 +1,7 @@
+footer{
+    height: 60px;
+    background-color: blue;
+}
+#wrapper{
+    min-height: calc(100vh - 60px);
+}
