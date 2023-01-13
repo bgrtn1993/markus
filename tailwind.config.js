@@ -11,7 +11,7 @@ module.exports = {
         extend: {
             borderColor: (theme) => ({
                 ...theme('colors'),
-                DEFAULT: theme('colors.aux.gray.dark'),
+                DEFAULT: theme('colors.mar.gray.dark'),
             }),
             spacing: {
                 7.5: '1.875rem',
@@ -35,7 +35,7 @@ module.exports = {
                 current: 'currentColor',
                 black: colors.black,
                 white: colors.white,
-                gray: colors.trueGray,
+                gray: colors.neutral,
                 mar: {
                     black: '#212332',
                     gray: {
