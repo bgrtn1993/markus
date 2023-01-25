@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "//bgrtn1993.github.io/markus/static/css/main.f4b55a7e.css",
-    "main.js": "//bgrtn1993.github.io/markus/static/js/main.c19745fd.js",
-    "index.html": "//bgrtn1993.github.io/markus/index.html",
-    "static/media/search.svg": "//bgrtn1993.github.io/markus/static/media/search.fda5e1692bf752bef5a016ce00630bdd.svg",
-    "main.f4b55a7e.css.map": "//bgrtn1993.github.io/markus/static/css/main.f4b55a7e.css.map",
-    "main.c19745fd.js.map": "//bgrtn1993.github.io/markus/static/js/main.c19745fd.js.map"
+    "main.css": "/static/css/main.135effce.css",
+    "main.js": "/static/js/main.fec94d88.js",
+    "index.html": "/index.html",
+    "main.135effce.css.map": "/static/css/main.135effce.css.map",
+    "main.fec94d88.js.map": "/static/js/main.fec94d88.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4b55a7e.css",
-    "static/js/main.c19745fd.js"
+    "static/css/main.135effce.css",
+    "static/js/main.fec94d88.js"
   ]
 }
