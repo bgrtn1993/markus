@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9707d3a-3d31-4b01-b354-b6ef2f9cdfe5" name="Changes" comment="npm changes." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="gh-pages" />
+                    <option name="lastUsedInstant" value="1674645787" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1674645714" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D1TJtGMIFavN110nhLopivASFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/screa/WebstormProjects/blog/markut",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\screa\\WebstormProjects\\blog\\markut\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\screa\WebstormProjects\blog\markut" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\screa\WebstormProjects\blog\markut\src\assets\img" />
+      <recent name="C:\Users\screa\WebstormProjects\markut\src\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Debug Application">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9707d3a-3d31-4b01-b354-b6ef2f9cdfe5" name="Changes" comment="" />
+      <created>1659865523212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659865523212</updated>
+      <workItem from="1659865524684" duration="558000" />
+      <workItem from="1659890011339" duration="18000" />
+      <workItem from="1660488700861" duration="1957000" />
+      <workItem from="1660545002771" duration="11000" />
+      <workItem from="1660658427483" duration="1194000" />
+      <workItem from="1662503089255" duration="450000" />
+      <workItem from="1662503556415" duration="2234000" />
+      <workItem from="1662540953409" duration="599000" />
+      <workItem from="1662611658419" duration="117000" />
+      <workItem from="1662611862536" duration="39000" />
+      <workItem from="1662759955241" duration="611000" />
+      <workItem from="1662835568157" duration="1778000" />
+      <workItem from="1662958853211" duration="9000" />
+      <workItem from="1663977954757" duration="1310000" />
+      <workItem from="1664177907036" duration="168000" />
+      <workItem from="1665026881603" duration="6000" />
+      <workItem from="1665036041127" duration="600000" />
+      <workItem from="1667763965846" duration="1108000" />
+      <workItem from="1667797567529" duration="442000" />
+      <workItem from="1667926617400" duration="599000" />
+      <workItem from="1667933742355" duration="26000" />
+      <workItem from="1668112002552" duration="2527000" />
+      <workItem from="1668121055779" duration="7000" />
+      <workItem from="1668121072722" duration="627000" />
+      <workItem from="1668158555214" duration="145000" />
+      <workItem from="1668161021476" duration="21000" />
+      <workItem from="1668161078924" duration="28000" />
+      <workItem from="1668161143683" duration="2875000" />
+      <workItem from="1668421663854" duration="1098000" />
+      <workItem from="1668503756278" duration="1211000" />
+      <workItem from="1668619208096" duration="30000" />
+      <workItem from="1668630081287" duration="38000" />
+      <workItem from="1669572152464" duration="28000" />
+      <workItem from="1669581949146" duration="995000" />
+      <workItem from="1669583648857" duration="1194000" />
+      <workItem from="1669644229237" duration="121000" />
+      <workItem from="1669652801514" duration="1788000" />
+      <workItem from="1669654609856" duration="9163000" />
+      <workItem from="1669675557868" duration="9115000" />
+      <workItem from="1669685580920" duration="2392000" />
+      <workItem from="1669700466316" duration="7950000" />
+      <workItem from="1669737607625" duration="1680000" />
+      <workItem from="1669773079415" duration="8536000" />
+      <workItem from="1669782383354" duration="1134000" />
+      <workItem from="1669788322610" duration="1481000" />
+      <workItem from="1669790102995" duration="4124000" />
+      <workItem from="1669839137062" duration="3064000" />
+      <workItem from="1669873092530" duration="1231000" />
+      <workItem from="1671308667674" duration="611000" />
+      <workItem from="1673646697755" duration="432000" />
+      <workItem from="1673847752212" duration="564000" />
+      <workItem from="1674645125301" duration="463000" />
+      <workItem from="1674645658381" duration="158000" />
+    </task>
+    <task id="LOCAL-00001" summary="custom domain.">
+      <created>1669788009491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669788009491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="npm changes.">
+      <created>1673647057313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673647057313</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="custom domain." />
+    <MESSAGE value="npm changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="npm changes." />
+  </component>
+</project>
