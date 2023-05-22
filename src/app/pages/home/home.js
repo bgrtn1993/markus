@@ -1,5 +1,18 @@
 import React, { Component } from 'react';
 import { Link } from "react-router-dom";
+import gql from "graphql-tag";
+import {useQuery} from "@apollo/client";
+
+const GET_ESSAYS = gql`
+    {
+      getEssays {
+            content,
+            header,
+            id
+      }
+}
+`;
+
 
 const projects = [{
     id: 0,
@@ -18,8 +31,30 @@ const projects = [{
     link: ''
 }]
 
+
+
 class Home extends Component {
+
+    async essayFunc(){
+        try {
+
+            const { data,refetch} = useQuery(GET_ESSAYS,{
+                variables: {
+                    name: 'blogDB'
+                }});
+            return data;
+        }catch (e){
+            console.log(e);
+        }
+        return null;
+    }
+
     render() {
+        const { loading, error, data } = useQuery(GET_ESSAYS, {
+            fetchPolicy: 'network-only',
+            nextFetchPolicy: 'cache-first'// Doesn't check cache before making a network request
+        });
+        console.log(data);
         const proItems = projects.map((x) => {
             const desc = x.description.substring(0, 400);
             return (
